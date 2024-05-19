@@ -3,12 +3,6 @@
 ## Project Overview
 This project develops a compact, BeagleBone Black-powered weather station that monitors and logs atmospheric conditions such as temperature, pressure, and light intensity. The data is displayed on an LCD and stored in CSV format for further analysis.
 
-## Team Members
-- Ashlesha Deokar: G01374665
-- Aniket Anil Raut: G01387118
-- Mandar Chaudhari: G01393699
-- Ganesh Madarasu: G01413183
-
 ## Hardware Components
 - **BeagleBone Black**: Central processing unit.
 - **Sensors**:
