@@ -1,4 +1,4 @@
-# BeagleBone Black-Powered Weather Station
+# BeagleSky: Next-Gen Weather Monitoring
 
 ## Project Overview
 This project develops a compact, BeagleBone Black-powered weather station that monitors and logs atmospheric conditions such as temperature, pressure, and light intensity. The data is displayed on an LCD and stored in CSV format for further analysis.
